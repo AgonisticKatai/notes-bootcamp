@@ -34,6 +34,12 @@ Todo lo que no es es esto se considera un **OBJETO** (arrays, funciones, objetos
 6. false
 
 '''* /n salto de linea
-* /t tabulación
-* % resto de divisiones'''
+* /t tabulación'''
+
+**UNIT TESTING**
+* **TDD** 
+*Test Driven Development*
+Integración continua
+
+
 
